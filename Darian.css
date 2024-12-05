@@ -1,0 +1,42 @@
+body {
+margin: auto;
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(146, 232, 243);
+}
+h1{
+    color: rgb(98, 0, 255);
+    font-weight: bold;
+    text-align: left;
+}
+p{
+    text-align: justify;
+    color: rgb(21, 21, 107);
+}
+img{
+
+}
+a{
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+a:hover{
+    color: teal;
+}
+ul{
+    list-style: square;
+}
+table{
+    background-color:rgb(21, 21, 107);
+    padding: 50px;
+    display: inline-block;
+    margin: 50px;
+}
+button{
+    background-color: blue;
+}
+
+button:hover{
+    background-color: rgb(21, 21, 107);
+}
